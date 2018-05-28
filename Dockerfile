@@ -1,6 +1,6 @@
 FROM scratch
 
-ADD ./dist /dist/
+ADD ./build /build/
 COPY Caddyfile /
 COPY caddy-linux /
 
