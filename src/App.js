@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import { Switch, Route } from 'react-router-dom'
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import HomePage from './pages/HomePage';
+import { Switch, Route } from 'react-router-dom';
+import Navbar from './components/navbar/Navbar';
+import Footer from './components/footer/Footer';
+import HomePage from './pages/home/HomePage';
 import './App.css';
 
 class App extends Component {
