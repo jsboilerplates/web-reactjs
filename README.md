@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jsboilerplates/web-reactjs/blob/master/LICENSE)
 
 ## Features
-- ReactJS
+- ReactJS, Router, Redux
 - Unit Test
 - ES6
 - CI with Travis, Docker Build
